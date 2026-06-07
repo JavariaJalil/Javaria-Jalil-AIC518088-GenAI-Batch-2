@@ -1,4 +1,4 @@
-## Introduction:
+# Agentic Marketing Tool
 
 This is an Agentic Marketing Tool that persuades potential customers by crafting a refined sales pitch. This is a beginner project, that I aim to enhance over time. This tool is designed to help offline businesses establish an online presence. 
 
